@@ -1,0 +1,12 @@
+[{
+		"agencia": "001",
+		"conta": "001-1",
+		"tipo": "CC"
+	},
+	{
+		"agencia": "001",
+		"conta": "001-1",
+		"tipo": "CP",
+		"saldo": 10.36
+	}
+]
